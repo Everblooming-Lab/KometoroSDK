@@ -1,6 +1,6 @@
 # Contributing to KometoroSDK
 
-Thank you for your interest in KometoroSDK and the engineering work of Everblooming Lab(Catmint Works)! 
+Thank you for your interest in KometoroSDK and the engineering work of Everblooming Lab (Catmint Works)! 
 
 We are thrilled to share our internal Software Development Kit with the broader developer community. However, because our primary focus as a boutique studio is on shipping our own games, we have specific guidelines regarding how we interact with this public repository.
 

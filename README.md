@@ -1,4 +1,12 @@
-# KometoroSDK
+<div align="center">
+
+   # KometoroSDK
+
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-Standard_2.1-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Standard 2.1" /> <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License MIT" /> <img src="https://img.shields.io/badge/Status-Read_Only-red.svg?style=flat-square" alt="Read Only" />
+
+</div>
+
+<br/>
 
 **KometoroSDK** (Rapid Development Kit) is an internal C# development framework created by **Everblooming Lab** (a DBA of Catmint Works LLC). 
 
