@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Collections/Collections.csproj" />
+  <Project Path="Data.BinaryPack/Data.BinaryPack.csproj" />
+  <Project Path="Data.ReadOnlyDatabase/Data.ReadOnlyDatabase.csproj" />
+  <Project Path="Event/Event.csproj" />
+  <Project Path="Game.Stat/Game.Stat.csproj" />
+  <Project Path="Log/Log.csproj" />
+</Solution>
