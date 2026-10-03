@@ -1,8 +1,8 @@
 # KometoroSDK.Data.BinaryPack (BinPack)
 
-A compact binary container format with optional AES encryption, GZip compression and SHA-256 integrity checking, for serializing heterogeneous objects into a single file. Part of the KometoroRDK (Rapid Development Kit) by Catmint Works LLC.
+A compact binary container format with optional AES encryption, GZip compression and SHA-256 integrity checking, for serializing heterogeneous objects into a single file. Part of the KometoroRDK (Rapid Development Kit) by Everblooming Lab (Catmint Works).
 
-> **Showcase Disclaimer** – This is a **read-only showcase** of internal tooling from **Catmint Works LLC**, published under the MIT License to demonstrate our engineering. We provide **no technical support, no SLA, and do not accept pull requests**.
+> **Showcase Disclaimer** – This is a **read-only showcase** of internal tooling from **Everblooming Lab (Catmint Works)**, published under the MIT License to demonstrate our engineering. We provide **no technical support, no SLA, and do not accept pull requests**.
 
 ## Overview
 

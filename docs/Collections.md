@@ -1,8 +1,8 @@
 # KometoroSDK.Collections
 
-Small, allocation-conscious collection helpers for looped / stepped list traversal. Part of the KometoroRDK (Rapid Development Kit) by Catmint Works LLC.
+Small, allocation-conscious collection helpers for looped / stepped list traversal. Part of the KometoroRDK (Rapid Development Kit) by Everblooming Lab (Catmint Works).
 
-> **Showcase Disclaimer** – This is a **read-only showcase** of internal tooling from **Catmint Works LLC**, published under the MIT License to demonstrate our engineering. We provide **no technical support, no SLA, and do not accept pull requests or issues-as-support**.
+> **Showcase Disclaimer** – This is a **read-only showcase** of internal tooling from **Everblooming Lab (Catmint Works)**, published under the MIT License to demonstrate our engineering. We provide **no technical support, no SLA, and do not accept pull requests or issues-as-support**.
 
 ## Overview
 

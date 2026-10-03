@@ -8,7 +8,7 @@
 
 <br/>
 
-**KometoroSDK** (Rapid Development Kit) is an internal C# development framework created by **Everblooming Lab** (a DBA of Catmint Works LLC). 
+**KometoroSDK** (Rapid Development Kit) is an internal C# development framework created by **Everblooming Lab** (an experimental game development and technical R&D division of Catmint Works LLC). 
 
 Targeting `.NET Standard 2.1`, this SDK provides high-performance, zero-allocation-conscious, and decoupled architectural tools for independent game development and robust engine design.
 
